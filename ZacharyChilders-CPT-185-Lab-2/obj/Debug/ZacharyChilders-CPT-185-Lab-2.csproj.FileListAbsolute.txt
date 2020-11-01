@@ -1,0 +1,10 @@
+C:\Users\ZChil\Desktop\Fall 2020\C# Class\ZacharyChilders-CPT-185-Lab-2\bin\Debug\ZacharyChilders-CPT-185-Lab-2.exe.config
+C:\Users\ZChil\Desktop\Fall 2020\C# Class\ZacharyChilders-CPT-185-Lab-2\bin\Debug\ZacharyChilders-CPT-185-Lab-2.exe
+C:\Users\ZChil\Desktop\Fall 2020\C# Class\ZacharyChilders-CPT-185-Lab-2\bin\Debug\ZacharyChilders-CPT-185-Lab-2.pdb
+C:\Users\ZChil\Desktop\Fall 2020\C# Class\ZacharyChilders-CPT-185-Lab-2\obj\Debug\ZacharyChilders-CPT-185-Lab-2.csprojAssemblyReference.cache
+C:\Users\ZChil\Desktop\Fall 2020\C# Class\ZacharyChilders-CPT-185-Lab-2\obj\Debug\ZacharyChilders_CPT_185_Lab_2.Form1.resources
+C:\Users\ZChil\Desktop\Fall 2020\C# Class\ZacharyChilders-CPT-185-Lab-2\obj\Debug\ZacharyChilders_CPT_185_Lab_2.Properties.Resources.resources
+C:\Users\ZChil\Desktop\Fall 2020\C# Class\ZacharyChilders-CPT-185-Lab-2\obj\Debug\ZacharyChilders-CPT-185-Lab-2.csproj.GenerateResource.cache
+C:\Users\ZChil\Desktop\Fall 2020\C# Class\ZacharyChilders-CPT-185-Lab-2\obj\Debug\ZacharyChilders-CPT-185-Lab-2.csproj.CoreCompileInputs.cache
+C:\Users\ZChil\Desktop\Fall 2020\C# Class\ZacharyChilders-CPT-185-Lab-2\obj\Debug\ZacharyChilders-CPT-185-Lab-2.exe
+C:\Users\ZChil\Desktop\Fall 2020\C# Class\ZacharyChilders-CPT-185-Lab-2\obj\Debug\ZacharyChilders-CPT-185-Lab-2.pdb
